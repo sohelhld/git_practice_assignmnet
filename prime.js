@@ -1,8 +1,10 @@
 function prime(number){
+
 let factor=0;
 for(let i=2;i<=number;i++){
 		if(num%i === 0){
 			factors++;
+
 		}
 
 	}
